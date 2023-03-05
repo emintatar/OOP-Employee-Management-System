@@ -169,7 +169,8 @@ namespace EmployeeManagementSystem
 
                     else if (option == 5)
                     {
-                        Console.WriteLine("Exiting");
+                        Console.WriteLine();
+                        Console.WriteLine("Exiting the system...");
                     }
 
                     else
